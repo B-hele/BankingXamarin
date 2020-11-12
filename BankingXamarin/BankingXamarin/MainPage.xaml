@@ -5,7 +5,8 @@
 
     <StackLayout>
         <Frame BackgroundColor="#362A62" Padding="24" CornerRadius="0">
-            <Label Text="Welcome to Xamarin.Forms!" HorizontalTextAlignment="Center" TextColor="White" FontSize="36"/>
+            <Image Source="" />
+            <Label Text="OneBank" HorizontalTextAlignment="Center" TextColor="White" FontSize="36"/>
 
         </Frame>
         
